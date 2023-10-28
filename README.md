@@ -16,7 +16,7 @@ O resultado será mostrado no terminal.
 
 ### SQL
 
-Você pode utilizar [esse site](https://sqliteonline.com/) para o teste do banco de dados. Veja o passo a passo.
+Você pode utilizar [este site](https://sqliteonline.com/) para o teste do banco de dados. Veja o passo a passo.
 1. Clicar em **import** no canto superior esquerdo.
 2. Clicar em **open** para abrir o arquivo .sql.
 3. Apontar para o arquivo /db.sql.
@@ -24,7 +24,7 @@ Você pode utilizar [esse site](https://sqliteonline.com/) para o teste do banco
 
 ### PHP
 
-Você pode utilizar [esse site](https://www.w3schools.com/php/phptryit.asp?filename=tryphp_compiler) para o teste do código em php. Veja o passo a passo.
+Você pode utilizar [este site](https://www.w3schools.com/php/phptryit.asp?filename=tryphp_compiler) para o teste do código em php. Veja o passo a passo.
 1. Copiar o código do arquivo /index.php.
 2. Colar no editor de código.
 3. Clicar em **RUN** para rodar o código
